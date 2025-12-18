@@ -4,6 +4,11 @@
 </p>
 
 <p align="center">
+  I turn ideas into production-ready web applications<br/>
+  with clean architecture and modern JavaScript stacks.
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" />
