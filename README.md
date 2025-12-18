@@ -19,21 +19,24 @@
 ---
 
 ### 🧠 Focus
-- Scalable backend architecture
-- Clean, modular code
-- Authentication & authorization
-- Real-world project structure
+
+**Frontend**
+- Angular & React component architecture
+- State management & RxJS
+- Performance-aware UI design
+- API integration & data handling
+- Reusable, maintainable UI patterns
+
+**Backend**
+- Scalable REST APIs
+- Authentication & authorization (JWT, roles)
+- NestJS modular architecture
+- MongoDB data modeling
+- Error handling & validation
 
 ---
 
-### 📌 Projects
-- **MEAN Auth System** — JWT, roles, guards
-- **NestJS REST API** — DTOs, validation, Swagger
-- **Next.js Dashboard** — SSR, API integration
 
----
 
-### 📫 Connect
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-username
-- Portfolio: https://your-site.com
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/mohamed-anwar-os2
