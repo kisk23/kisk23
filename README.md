@@ -27,7 +27,7 @@
 
 **Frontend**
 - Angular & React component architecture
-- State management & RxJS
+- State management 
 - Performance-aware UI design
 - API integration & data handling
 - Reusable, maintainable UI patterns
