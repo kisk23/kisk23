@@ -26,7 +26,7 @@
 ### 🧠 Focus
 
 **Frontend**
-- Angular & React component architecture
+- React component architecture
 - State management 
 - Performance-aware UI design
 - API integration & data handling
@@ -38,6 +38,7 @@
 - NestJS modular architecture
 - MongoDB data modeling
 - Error handling & validation
+- prisma / mongoose orm-odm
 
 ---
 
