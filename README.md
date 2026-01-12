@@ -31,6 +31,7 @@
 - Performance-aware UI design
 - API integration & data handling
 - Reusable, maintainable UI patterns
+- next app router
 
 **Backend**
 - Scalable REST APIs
